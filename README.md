@@ -1,2 +1,2 @@
 # API Sentimento Livre
-API para consumo e interação com os dados dos voluntários e agendamento de sessões.
+API para consumo dos dados dos voluntários e agendamento de sessões.
